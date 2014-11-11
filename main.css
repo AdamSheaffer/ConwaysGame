@@ -1,0 +1,24 @@
+table {
+  margin: 40px auto;
+  height: 100px;
+  width: 600px;
+}
+
+h2 {
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 0 auto;
+}
+
+td.alive {
+  background-color: green;
+  color: green;
+}
+
+td.dead {
+  background-color: #ccc;
+  color: #ccc;
+}
